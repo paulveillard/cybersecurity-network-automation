@@ -5,8 +5,9 @@
 A collection of awesome software, libraries, frameworks, talks & videos, best practices, learning tutorials and important practical resources about automation in Networking security. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
-## Table of Contents
 
+## Table of Contents
+- [Introduction](#introduction)
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
 - [Training](#training)
@@ -27,7 +28,12 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 - [Contributing](#contributing)
 - [License](#license)
 
-# Community
+## Introduction
+- Network automation is the combination of software and processes to provision, configure, and manage all physical and virtual devices within an organization's network.
+
+- [Network automation](https://www.redhat.com/en/topics/automation/what-is-network-automation) uses programmable logic to manage network resources and services. Network automation allows network operations (NetOps) teams to configure, scale, protect, and integrate network infrastructure and application services more quickly than when performed manually by users.
+
+## Community
 
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Ansible's mailing list and forum!
 - [IRC Ansible](https://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
@@ -38,7 +44,7 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 - [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - A centralized group for talking about network device automation with SaltStack.
 - [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
 
-# Events / Meetup
+## Events / Meetup
 
 - [AWS Reinvent](https://reinvent.awsevents.com/) - AWS re:Invent Central is designed to facilitate connections between sponsors and attendees.
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
@@ -52,7 +58,7 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 - [Tech Field Day](https://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
 - [SaltConf](https://saltconf.com/) - 4 days event including two days of SaltStack customer case studies and SaltStack technical deep dives.
 
-# Training
+## Training
 
 - [GNS3 Academy - Instructor David Bombal](https://academy.gns3.com/courses/author/12794) - Offers an inexpensive set of introductions to Ansible and Python for Network Engineers, among other courses.
 - [IP Space](https://www.ipspace.net/Training) - Numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6, VPNs, and much more.
@@ -61,7 +67,7 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 - [Nick Russo study resources](http://njrusmc.net/jobaid/jobaid.html) - Collection of DevNet certification study resources, such as study plans and Postman collections.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
 
-# Presentations
+## Presentations
 
 |            Title            |            Details            |            Year            |
 |-----------------------------|-------------------------------|----------------------------|
