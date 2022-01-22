@@ -29,9 +29,16 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 - [License](#license)
 
 ## Introduction
-- Network automation is the combination of software and processes to provision, configure, and manage all physical and virtual devices within an organization's network.
 
-- [Network automation](https://www.redhat.com/en/topics/automation/what-is-network-automation) uses programmable logic to manage network resources and services. Network automation allows network operations (NetOps) teams to configure, scale, protect, and integrate network infrastructure and application services more quickly than when performed manually by users.
+### What is Networking?
+Networking is the use of hardware—like network interface cards, ethernet cables, and switches—as well as software—such as those that create software-defined networking (SDN), software-defined wide area networks (SD-WANs), and network functions virtualization (NFV)—to transport data between endpoints known as nodes.
+
+What is Automation?
+
+Automation is the use of technology to perform tasks with reduced human assistance. IT automation is the use of software to create repeatable instructions and processes to replace or reduce human interaction with IT systems. Automation software works within the confines of those instructions, tools, and frameworks to carry out the tasks with little to no human intervention.
+
+### What is network automation?
+Network automation removes the manual steps necessary to manage networks—such as logging into routers, switches, load balancers, and firewalls to change configurations by hand before logging out. Network automation relies on chained scripts programmed at the command-line interface (CLI) level of an operating system (OS) or prepackaged automation software.
 
 ## Community
 
