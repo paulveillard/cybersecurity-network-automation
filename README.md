@@ -33,7 +33,7 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 ### What is Networking?
 **Networking** is the use of hardware—like network interface cards, ethernet cables, and switches—as well as software—such as those that create software-defined networking (SDN), software-defined wide area networks (SD-WANs), and network functions virtualization (NFV)—to transport data between endpoints known as nodes.
 
-![networking](https://github.com/paulveillard/cybersecurity-network-automation/blob/main/img/networking.png)
+![networking](https://github.com/paulveillard/cybersecurity-network-automation/blob/main/img/Global-Networking-Transparent-PNG.png)
 
 ### What is Automation?
 
@@ -41,6 +41,8 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 
 ### What is Network Automation?
 **Network automation** removes the manual steps necessary to manage networks—such as logging into routers, switches, load balancers, and firewalls to change configurations by hand before logging out. Network automation relies on chained scripts programmed at the command-line interface (CLI) level of an operating system (OS) or prepackaged automation software.
+
+![networking](https://github.com/paulveillard/cybersecurity-network-automation/blob/main/img/Global-Networking-Transparent-PNG.png)
 
 ## Community
 
