@@ -39,10 +39,12 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 
 **Automation** is the use of technology to perform tasks with reduced human assistance. IT automation is the use of software to create repeatable instructions and processes to replace or reduce human interaction with IT systems. Automation software works within the confines of those instructions, tools, and frameworks to carry out the tasks with little to no human intervention.
 
+![networking](https://github.com/paulveillard/cybersecurity-network-automation/blob/main/img/automation.png)
+
 ### What is Network Automation?
 **Network automation** removes the manual steps necessary to manage networks—such as logging into routers, switches, load balancers, and firewalls to change configurations by hand before logging out. Network automation relies on chained scripts programmed at the command-line interface (CLI) level of an operating system (OS) or prepackaged automation software.
 
-![networking](https://github.com/paulveillard/cybersecurity-network-automation/blob/main/img/Global-Networking-Transparent-PNG.png)
+![networking](https://github.com/paulveillard/cybersecurity-network-automation/blob/main/img/networking.png)
 
 ## Community
 
