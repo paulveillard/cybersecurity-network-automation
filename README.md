@@ -6,7 +6,7 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 
 
 
-## Table of Contents
+## `Table of Contents`
 - [Introduction](#introduction)
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
@@ -28,7 +28,7 @@ A collection of awesome software, libraries, frameworks, talks & videos, best pr
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## `Introduction`
 
 ### What is Networking?
 **Networking** is the use of hardware—like network interface cards, ethernet cables, and switches—as well as software—such as those that create software-defined networking (SDN), software-defined wide area networks (SD-WANs), and network functions virtualization (NFV)—to transport data between endpoints known as nodes.
